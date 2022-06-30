@@ -22,19 +22,20 @@
     "url": "https://www.malaysiaairlines.com/tw/zh_HK.html",
     "icon": "https://favicons.githubusercontent.com/www.malaysiaairlines.com",
     "slug": "malaysia-airlines",
-    "status": "up",
-    "uptime": "99.31%",
-    "uptimeDay": "84.43%",
-    "uptimeWeek": "97.78%",
-    "uptimeMonth": "99.31%",
-    "uptimeYear": "99.31%",
-    "time": 358,
-    "timeDay": 203,
-    "timeWeek": 319,
-    "timeMonth": 358,
-    "timeYear": 358,
+    "status": "down",
+    "uptime": "99.34%",
+    "uptimeDay": "88.38%",
+    "uptimeWeek": "97.83%",
+    "uptimeMonth": "99.34%",
+    "uptimeYear": "99.34%",
+    "time": 353,
+    "timeDay": 194,
+    "timeWeek": 310,
+    "timeMonth": 353,
+    "timeYear": 353,
     "dailyMinutesDown": {
-      "2022-06-29": 224
+      "2022-06-30": 0,
+      "2022-06-29": 218
     }
   },
   {
